@@ -1,5 +1,15 @@
 == Welcome to Rails
 
+================================
+# Added Aug. 17, 2011 YP
+# Ruby on Rails Tutorial: sample application
+
+This is the sample application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
+# Added Aug. 17, 2011 YP
+================================
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
